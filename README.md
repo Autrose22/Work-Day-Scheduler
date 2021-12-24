@@ -7,3 +7,6 @@ This Work Day Scheduler is designed to help you schedule your day and show when 
 * CSS
 * Moment.js
 * Bootstrap
+
+# Site Image
+
